@@ -1,2 +1,3 @@
-# akka-streams-fiddles
-List of fiddles worked out during Akka Stream sessions
+# Akka Stream Scala Fiddles
+
+This page contains all the [Scala Fiddle](https://scalafiddle.io) urls worked out during the session.
